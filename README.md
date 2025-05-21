@@ -13,3 +13,9 @@
 
 5. Demonstrates end-to-end IoT application involving hardware-software integration, ML-based decision support, and automated medicine dispensing
 
+## App workflow
+https://youtube.com/shorts/8dxuSLdRavc?feature=share
+
+## vending Machine
+https://youtube.com/shorts/9miYiTakNsM?feature=share
+https://youtube.com/shorts/3eqlv7BBgYA?feature=share
